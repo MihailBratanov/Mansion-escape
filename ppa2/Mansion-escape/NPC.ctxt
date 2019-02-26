@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=NPC
+comment0.text=\n\ NPC\ class\n\ This\ class\ is\ part\ of\ the\ "Mansion\ escape"\ game.\ \n\ "Mansion\ escape"\ is\ a\ very\ simple,\ text\ based\ adventure\ game.\ \ \n\ \n\ This\ class\ creates\ npc-objects.\ They\ have\ descriptions.\n\ @author\ \ Michael\ K\u00F6lling\ and\ David\ J.\ Barnes\ and\ Mihail\ Bratanov\n\ @version\ 1.0\n
+comment1.params=description
+comment1.target=NPC(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ NPC\n
+comment2.params=
+comment2.target=java.lang.String\ getDescription()
+comment2.text=\n\ Gets\ npc's\ description\ and\ returns\ it\ to\ other\ classes\ to\ be\ used\ further.\n
+comment3.params=aliveChange
+comment3.target=void\ setAlive(boolean)
+comment3.text=\n\ Sets\ npc\ to\ either\ dead\ or\ alive.\n
+comment4.params=
+comment4.target=boolean\ getAlive()
+comment4.text=\n\ Returns\ npc's\ state\ of\ life\ \:D\ \n
+numComments=5
